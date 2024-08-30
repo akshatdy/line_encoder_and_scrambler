@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(69,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(79,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(498,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(503,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(605,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\B.Tech Projects\Line coding encoder and scrambler\main.cpp(610,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Line coding encoder and scrambler.vcxproj -> D:\Projects\B.Tech Projects\Line coding encoder and scrambler\x64\Debug\Line coding encoder and scrambler.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -517,7 +517,7 @@ void B8ZS(int* inputSequence)
     int j = 0;
     int start = v[j];
 
-    if (v.empty())                   // if no consecutive 4 zeroes are present
+    if (v.empty())                   // if no consecutive 8 zeroes are present
     {                                // then simply do AMI
         AMI(inputSequence);
         return;
@@ -769,6 +769,8 @@ int main(int argc, char** argv) {
     
     printf("\nHow many bits do you want in the data stream?\n");
     scanf_s("%d", &n);
+
+    inputSequence = new int[n];
 
     switch (opt1)
     {
